@@ -5,3 +5,4 @@ notebook==7.5.0
 matplotlib==3.10.7
 gradio==6.0.2
 scikit-learn==1.7.2
+seaborn==0.3.12

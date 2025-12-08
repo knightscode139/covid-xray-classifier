@@ -2,3 +2,4 @@
 archive.zip
 dataset/
 .ipynb_checkpoints/
+*.pth
