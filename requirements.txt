@@ -4,3 +4,4 @@ torchvision==0.24.1
 notebook==7.5.0
 matplotlib==3.10.7
 gradio==6.0.2
+scikit-learn==1.7.2
